@@ -5,7 +5,6 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
     <link rel="stylesheet" href="estilos/estilos.css">
     <title>Card</title>
 </head>
@@ -15,7 +14,7 @@
         <div class="grid-tarjeta">
 
             <div class="tarjeta-img">
-                <img class="img-tarjeta" src="https://picsum.photos/400" alt="laorem picsum">
+                <img class="img-tarjeta" src="https://picsum.photos/300" alt="laorem picsum">
             </div>
             <div class="tarjeta-titulo">
                 <p>
