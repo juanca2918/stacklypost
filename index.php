@@ -19,6 +19,15 @@
             <!--INICIO CARD POST-->
             <div class="componente-card">
                 <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
+                <?php include("vista/card/card.php"); ?>
             </div>
             <!--FIN CARD POST-->
         </div>
